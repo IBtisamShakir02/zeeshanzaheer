@@ -3,6 +3,7 @@ import Tekruiter from "../src/images/Tekruiter.jpg";
 import Ntsc from "../src/images/Ntsc.jpg";
 import Eztill from "../src/images/Eztill.jpg";
 import aboutImage from "../src/images/Zeeshan.jpg";
+import Trends from "../src/images/Trends.jpg";
 export const servicesData = [
   {
     title: "Social Media Marketing:",
@@ -82,6 +83,15 @@ export const recentProjects = [
     link:"https://tekruiter.com/",
     description:
       "Tekruiter is the name of excellence and convenience in the recruitment world. Tekruiter has proven to be the best Recruiting agency around the globe. I created website content, blogs, social media posts, newsletters and press releases for Tekruiter.",
+  },
+  {
+    img: Trends,
+    subTitle: "Trends",
+    link:"https://hackernoon.com/top-trends-in-fleet-management-2022",
+  },
+  {
+    subTitle: "Fleet Management",
+    link:"https://medium.com/@ehsanali2190/how-mobile-apps-are-beneficial-for-fleet-management-3f9232f09ab5 ",
   },
 ];
 //Recent projects data end here

@@ -19,7 +19,7 @@ export default function Projects() {
                     <p>{item.description}</p>
                   </div>
                   <div className="project-image">
-                    <img src={item.img} />
+                    <img src={item.img} alt='' />
                   </div>
                 </div>
                 )
