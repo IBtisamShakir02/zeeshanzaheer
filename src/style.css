@@ -519,6 +519,7 @@ p {
   letter-spacing: 0.1rem;
   margin-top: 10px;
   margin-bottom: 10px;
+  text-align: center;
 }
 #footer .social-icon {
   display: flex;
