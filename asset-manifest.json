@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zeeshanzaheer/static/css/main.561ba6aa.chunk.css",
-    "main.js": "/zeeshanzaheer/static/js/main.d7ed7def.chunk.js",
-    "main.js.map": "/zeeshanzaheer/static/js/main.d7ed7def.chunk.js.map",
+    "main.js": "/zeeshanzaheer/static/js/main.db918c37.chunk.js",
+    "main.js.map": "/zeeshanzaheer/static/js/main.db918c37.chunk.js.map",
     "runtime-main.js": "/zeeshanzaheer/static/js/runtime-main.965efcbc.js",
     "runtime-main.js.map": "/zeeshanzaheer/static/js/runtime-main.965efcbc.js.map",
     "static/js/2.ea39f411.chunk.js": "/zeeshanzaheer/static/js/2.ea39f411.chunk.js",
@@ -17,12 +17,13 @@
     "static/media/Flottila.052f8450.jpg": "/zeeshanzaheer/static/media/Flottila.052f8450.jpg",
     "static/media/Ntsc.18862031.jpg": "/zeeshanzaheer/static/media/Ntsc.18862031.jpg",
     "static/media/Tekruiter.8a080c83.jpg": "/zeeshanzaheer/static/media/Tekruiter.8a080c83.jpg",
+    "static/media/Trends.0fbf4d23.jpg": "/zeeshanzaheer/static/media/Trends.0fbf4d23.jpg",
     "static/media/Zeeshan.9f574213.jpg": "/zeeshanzaheer/static/media/Zeeshan.9f574213.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.965efcbc.js",
     "static/js/2.ea39f411.chunk.js",
     "static/css/main.561ba6aa.chunk.css",
-    "static/js/main.d7ed7def.chunk.js"
+    "static/js/main.db918c37.chunk.js"
   ]
 }
