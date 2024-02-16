@@ -1,4 +1,7 @@
-import projectImage from "../src/images/img-1.png";
+import Flotilla from "../src/images/Flottila.jpg";
+import Tekruiter from "../src/images/Tekruiter.jpg";
+import Ntsc from "../src/images/Ntsc.jpg";
+import Eztill from "../src/images/Eztill.jpg";
 import aboutImage from "../src/images/Zeeshan.jpg";
 export const servicesData = [
   {
@@ -52,7 +55,7 @@ export const servicesData = [
 //Recent projects data start here
 export const recentProjects = [
   {
-    img: projectImage,
+    img: Flotilla,
     subTitle: "Flotilla IoT",
     link:"https://flotillaiot.com/",
     description:
@@ -60,21 +63,21 @@ export const recentProjects = [
   },
 
   {
-    img: projectImage,
+    img: Ntsc,
     subTitle: "National Transportation Solutions Company (NTSC)",
     link:"https://ntsc.sa/",
     description:
       "National Transportation Solutions Company (NTSC) is a leading automotive technology company specializing in advanced fleet management. I created the website content, blogs, news and press releases, social media, and guest posts.",
   },
   {
-    img: projectImage,
+    img: Eztill,
     subTitle: "EZTill",
     link:"https://eztill.co/",
     description:
       "EZTill is an innovative POS system designed to run your business operations smoothly. I created website content, blogs, guest posts, social media posts for EZTill.",
   },
   {
-    img: projectImage,
+    img: Tekruiter,
     subTitle: "Tekruiter",
     link:"https://tekruiter.com/",
     description:
